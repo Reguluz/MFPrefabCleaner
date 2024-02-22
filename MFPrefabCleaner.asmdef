@@ -1,0 +1,17 @@
+{
+    "name": "MFPrefabCleaner",
+    "rootNamespace": "",
+    "references": [
+        "GUID:32cd36deaa324e90ad7098ac9a2eeb78",
+        "GUID:ac8fe4f15c244f20b9905f9de46f4bc3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
